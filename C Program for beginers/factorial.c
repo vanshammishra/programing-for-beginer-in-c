@@ -4,6 +4,7 @@
     /*   
         
     */
+  // this program is to calculate the factorial of the given number
   int fact,temp;
   char a;
 int facto();
